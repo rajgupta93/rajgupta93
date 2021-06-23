@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rajgupta93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Raj Gupta
+- 👀 I’m interested in android development
+- 🌱 I’m currently learning dsa , android development .
+- 💞️ I’m looking to collaborate on android project
+- 📫 How to reach me rajg706891@gmail.com
 
 <!---
 rajgupta93/rajgupta93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
