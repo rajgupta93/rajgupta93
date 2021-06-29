@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Github Stats  </h1>
 
 <p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api?username=rajgupta93&show_icons=truen&icon_color=bb2acf&count_private=true&theme=algolia&bg_color=0500206A" alt="Github Stats" />
-
-  <p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=rajgupta93&layout=compact&theme=blueberry_duo&background=0500206A&dates=3795DD" alt="Github Streak" /> </p>
+<p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupta93" alt="Language used" />
+ <p align="center">&nbsp;<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=rajgupta93&layout=compact&theme=blueberry_duo&background=0500206A&dates=3795DD" alt="Github Streak" /> </p>
