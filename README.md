@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Raj 👋  </h1>
- 👀 I’m interested in android development<br>
+-👀 I’m interested in android development<br>
 - 🌱 I’m currently learning dsa , android development .<br>
 - 💞️ I’m looking to collaborate on android project.<br>
 - 📫 How to reach me rajg706891@gmail.com <br>
