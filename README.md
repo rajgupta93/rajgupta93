@@ -16,3 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajgupta93&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<h1 align="center"> Github Stats  </h1>
+
+<p align="center">&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api?username=rajgupta93&show_icons=truen&icon_color=bb2acf&count_private=true&theme=algolia&bg_color=0500206A" alt="Github Stats" />
