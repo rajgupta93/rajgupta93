@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raj Gupta
+<h1 align="center"> Hi there, I'm Raj 👋  </h1>
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning dsa , android development .
 - 💞️ I’m looking to collaborate on android project
