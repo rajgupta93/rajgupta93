@@ -2,6 +2,7 @@
 -👀 I’m interested in android development<br>
 - 🌱 I’m currently learning dsa , android development .<br>
 - 💞️ I’m looking to collaborate on android project.<br>
+- 😎 I'm working as a freelancer on fiverr.<br>
 - 📫 How to reach me rajg706891@gmail.com <br>
 - Connect me on <strong>www.linkedin.com/in/rajgupta93</strong> 
 
